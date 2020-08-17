@@ -8,5 +8,5 @@ In terminal enter: git clone https://github.com/m-ayala/ATM_Machine.git or downl
 In terminal enter: python ATM.py
 
 
-# Adding more cards
+# Adding more cards or users to Database
 To add more users/cards, add obj.append(#details#) after line 92 in ATM.py
